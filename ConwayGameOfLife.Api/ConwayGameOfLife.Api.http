@@ -1,0 +1,6 @@
+@ConwayGameOfLife.Api_HostAddress = http://localhost:5145
+
+GET {{ConwayGameOfLife.Api_HostAddress}}/diagnostics/heartbeat
+Accept: application/json
+
+###

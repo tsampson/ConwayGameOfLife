@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\ConwayGameOfLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E66EB-3F92-4A8D-BB48-663DFE448A9D}|ConwayGameOfLife.Api\\ConwayGameOfLife.Api.csproj|c:\\code\\conwaygameoflife\\conwaygameoflife.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA2E66EB-3F92-4A8D-BB48-663DFE448A9D}|ConwayGameOfLife.Api\\ConwayGameOfLife.Api.csproj|solutionrelative:conwaygameoflife.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E66EB-3F92-4A8D-BB48-663DFE448A9D}|ConwayGameOfLife.Api\\ConwayGameOfLife.Api.csproj|c:\\code\\conwaygameoflife\\conwaygameoflife.api\\controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E66EB-3F92-4A8D-BB48-663DFE448A9D}|ConwayGameOfLife.Api\\ConwayGameOfLife.Api.csproj|solutionrelative:conwaygameoflife.api\\controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E66EB-3F92-4A8D-BB48-663DFE448A9D}|ConwayGameOfLife.Api\\ConwayGameOfLife.Api.csproj|c:\\code\\conwaygameoflife\\conwaygameoflife.api\\controllers\\gameoflifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E66EB-3F92-4A8D-BB48-663DFE448A9D}|ConwayGameOfLife.Api\\ConwayGameOfLife.Api.csproj|solutionrelative:conwaygameoflife.api\\controllers\\gameoflifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\ConwayGameOfLife\\ConwayGameOfLife.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ConwayGameOfLife.Api\\appsettings.json",
+              "ToolTip": "C:\\code\\ConwayGameOfLife\\ConwayGameOfLife.Api\\appsettings.json",
+              "RelativeToolTip": "ConwayGameOfLife.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T22:45:56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiagnosticsController.cs",
+              "DocumentMoniker": "C:\\code\\ConwayGameOfLife\\ConwayGameOfLife.Api\\Controllers\\DiagnosticsController.cs",
+              "RelativeDocumentMoniker": "ConwayGameOfLife.Api\\Controllers\\DiagnosticsController.cs",
+              "ToolTip": "C:\\code\\ConwayGameOfLife\\ConwayGameOfLife.Api\\Controllers\\DiagnosticsController.cs",
+              "RelativeToolTip": "ConwayGameOfLife.Api\\Controllers\\DiagnosticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:42:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOfLifeController.cs",
+              "DocumentMoniker": "C:\\code\\ConwayGameOfLife\\ConwayGameOfLife.Api\\Controllers\\GameOfLifeController.cs",
+              "RelativeDocumentMoniker": "ConwayGameOfLife.Api\\Controllers\\GameOfLifeController.cs",
+              "ToolTip": "C:\\code\\ConwayGameOfLife\\ConwayGameOfLife.Api\\Controllers\\GameOfLifeController.cs",
+              "RelativeToolTip": "ConwayGameOfLife.Api\\Controllers\\GameOfLifeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:40:07.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
